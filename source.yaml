@@ -1,0 +1,204 @@
+# 订阅链接1
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
+
+
+# 订阅链接2
+- type: subscribe
+  options:
+    url: https://mouyrgrrt.netlify.app/
+
+
+# 订阅链接3
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
+
+
+# 订阅链接4
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/chfchf0306/jeidian4.18/main/4.18
+
+
+# 订阅链接5
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/freefq/free/master/v2
+
+
+# 订阅链接6
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+
+
+# 订阅链接7
+- type: subscribe
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan
+
+
+# 订阅链接8
+- type: subscribe
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=vmess
+
+
+
+# 订阅链接9
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
+
+
+# 订阅链接10
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/trojan.md
+
+
+# 订阅链接11
+- type: subscribe
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=vmess,vless,trojan
+
+
+# 订阅链接12
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt
+
+
+# 订阅链接13
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+
+
+# 订阅链接14
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+
+
+# 订阅链接15
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+
+
+# 订阅链接16
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+
+
+# 订阅链接17
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+
+# 订阅链接18
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml
+    
+    
+# tg频道抓取1
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200
+
+
+# tg频道抓取2
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 200
+
+
+# tg频道抓取3
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+
+
+# tg频道抓取4
+- type: tgchannel
+  options:
+    channel: FreeV2rays
+    num: 200
+
+
+# tg频道抓取5
+- type: tgchannel
+  options:
+    channel: vmesssr
+    num: 200
+
+
+# tg频道抓取6
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+
+
+# tg频道抓取7
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 200
+
+
+# tg频道抓取8
+- type: tgchannel
+  options:
+    channel: reeshadowsock
+    num: 200
+
+
+# tg频道抓取9
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+
+# tg频道抓取10
+- type: tgchannel
+  options:
+    channel: ShareCentre
+    num: 200
+
+
+# tg频道抓取11
+- type: tgchannel
+  options:
+    channel: SSRlist
+    num: 200
+
+
+# tg频道抓取12
+- type: tgchannel
+  options:
+    channel: ChojiLam
+    num: 200
+
+
+# tg频道抓取13
+- type: tgchannel
+  options:
+    channel: WangCai_1
+    num: 200
+    
+    
+# 网页模糊抓取1
+- type: webfuzz
+  options:
+    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
