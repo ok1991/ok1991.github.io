@@ -106,7 +106,19 @@
   options:
     url: https://v2ray.banyunxiaoxi.ml
     
-    
+
+# 订阅链接19
+- type: subscribe
+  options:
+    url: https://132.145.82.138/clash/proxies?type=vmess&filter=r
+
+
+# 订阅链接20
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/clash/proxies?type=vmess
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
