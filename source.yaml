@@ -119,6 +119,12 @@
     url: https://smart.zxcyec.top/clash/proxies?type=vmess
 
 
+# 订阅链接21
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/webdao/v2ray/master/nodes.txt
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
