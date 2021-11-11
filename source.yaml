@@ -43,7 +43,7 @@
 # 订阅链接8
 - type: subscribe
   options:
-    url: https://etproxypool.ga/clash/proxies?type=vmess
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan
 
 
 
@@ -62,7 +62,7 @@
 # 订阅链接11
 - type: subscribe
   options:
-    url: https://etproxypool.ga/clash/proxies?type=vmess,vless,trojan
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接12
@@ -116,7 +116,7 @@
 # 订阅链接20
 - type: subscribe
   options:
-    url: https://smart.zxcyec.top/clash/proxies?type=vmess
+    url: https://smart.zxcyec.top/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接21
@@ -128,37 +128,37 @@
 # 订阅链接22
 - type: subscribe
   options:
-    url: http://149.248.8.112/clash/proxies?type=vmess
+    url: http://149.248.8.112/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接23
 - type: subscribe
   options:
-    url: http://8.135.91.61/clash/proxies?type=vmess
+    url: http://8.135.91.61/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接24
 - type: subscribe
   options:
-    url: http://213.188.195.234/clash/proxies?type=vmess
+    url: http://213.188.195.234/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接25
 - type: subscribe
   options:
-    url: http://213.188.195.217/clash/proxies?type=vmess
+    url: http://213.188.195.217/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接26
 - type: subscribe
   options:
-    url: http://172.104.109.93:8081/clash/proxies?type=vmess
+    url: http://172.104.109.93:8081/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接27
 - type: subscribe
   options:
-    url: http://158.101.93.192/clash/proxies?type=vmess
+    url: http://158.101.93.192/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接28
@@ -170,7 +170,7 @@
 # 订阅链接29
 - type: subscribe
   options:
-    url: https://proxy.leefake.xyz/clash/proxies?type=vmess
+    url: https://proxy.leefake.xyz/clash/proxies?type=vmess,trojan
 
 
 # 订阅链接30
