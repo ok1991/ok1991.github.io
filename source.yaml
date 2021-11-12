@@ -1,4 +1,4 @@
 # clash订阅3
-- type: clash
+- type: subscribe
   options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
+    url: https://subcon.dlj.tf/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FAzadNetCH%2FClash%2Fmain%2FAzadNet.yml&insert=false
