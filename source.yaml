@@ -1,4 +1,4 @@
-# 订阅链接8
+# clash订阅3
 - type: clash
   options:
-    url: https://free.kingfu.cf/clash/proxies?type=vmess,trojan
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
