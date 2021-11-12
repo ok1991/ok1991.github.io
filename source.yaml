@@ -179,6 +179,37 @@
     url: https://proxypool.remon602.ga/vmess/sub
 
 
+# 订阅链接31
+- type: subscribe
+  options:
+    url: https://ednovas.design/clash/proxies
+
+
+
+# 订阅链接32
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+
+# clash订阅1
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+
+
+# clash订阅2
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+
+
+# clash订阅3
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
