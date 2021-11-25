@@ -252,6 +252,13 @@
     num: 200
 
 
+ # tg频道抓取21
+- type: tgchannel
+  options:
+    channel: ChojiLam
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
