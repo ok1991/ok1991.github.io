@@ -88,6 +88,30 @@
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 
 
+# 订阅链接15
+- type: subscribe
+  options:
+    url: https://qxnav.com/tool.txt
+
+
+# 订阅链接16
+- type: subscribe
+  options:
+    url: https://v2ray.neocities.org/v2ray.txt
+
+
+# 订阅链接17
+- type: subscribe
+  options:
+    url: https://pastebin.com/raw/FdshEpgA
+
+
+# 订阅链接18
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/V2
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
@@ -168,7 +192,7 @@
 # tg频道抓取12
 - type: tgchannel
   options:
-    channel: ChojiLam
+    channel: wbnet
     num: 200
 
 
@@ -177,8 +201,50 @@
   options:
     channel: WangCai_1
     num: 200
-    
-    
+
+
+# tg频道抓取14
+- type: tgchannel
+  options:
+    channel: abc999222
+    num: 200
+
+
+ # tg频道抓取15
+- type: tgchannel
+  options:
+    channel: Jsnzk
+    num: 200
+
+
+ # tg频道抓取16
+- type: tgchannel
+  options:
+    channel: SSRCOM
+    num: 200
+
+
+ # tg频道抓取17
+- type: tgchannel
+  options:
+    channel: mfdbdl2
+    num: 200
+
+
+ # tg频道抓取18
+- type: tgchannel
+  options:
+    channel: freeyule
+    num: 200
+
+
+ # tg频道抓取19
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
@@ -195,3 +261,9 @@
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+
+
+# 网页模糊抓取4
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB
