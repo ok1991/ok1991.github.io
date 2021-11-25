@@ -245,6 +245,13 @@
     num: 200
 
 
+ # tg频道抓取20
+- type: tgchannel
+  options:
+    channel: fqswhj
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
