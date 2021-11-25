@@ -1,3 +1,9 @@
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/ok1991/ok1991/main/proxypool/sub.list
+
+
 # 订阅链接1
 - type: subscribe
   options:
@@ -137,7 +143,7 @@
 # tg频道抓取5
 - type: tgchannel
   options:
-    channel: vmesssr
+    channel: anzhuohezi88
     num: 200
 
 
@@ -151,21 +157,21 @@
 # tg频道抓取7
 - type: tgchannel
   options:
-    channel: ssList
+    channel: fqswhj
     num: 200
 
 
 # tg频道抓取8
 - type: tgchannel
   options:
-    channel: reeshadowsock
+    channel: freeshadowsock
     num: 200
 
 
 # tg频道抓取9
 - type: tgchannel
   options:
-    channel: ssrshares
+    channel: freeyule
     num: 200
 
 
@@ -179,7 +185,7 @@
 # tg频道抓取11
 - type: tgchannel
   options:
-    channel: SSRlist
+    channel: Jsnzk
     num: 200
 
 
@@ -200,63 +206,21 @@
 # tg频道抓取14
 - type: tgchannel
   options:
-    channel: abc999222
+    channel: SSRCOM
     num: 200
 
 
  # tg频道抓取15
 - type: tgchannel
   options:
-    channel: Jsnzk
+    channel: mfdbdl2
     num: 200
 
 
  # tg频道抓取16
 - type: tgchannel
   options:
-    channel: SSRCOM
-    num: 200
-
-
- # tg频道抓取17
-- type: tgchannel
-  options:
-    channel: mfdbdl2
-    num: 200
-
-
- # tg频道抓取18
-- type: tgchannel
-  options:
-    channel: freeyule
-    num: 200
-
-
- # tg频道抓取19
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
-
-
- # tg频道抓取20
-- type: tgchannel
-  options:
-    channel: fqswhj
-    num: 200
-
-
- # tg频道抓取21
-- type: tgchannel
-  options:
     channel: ChojiLam
-    num: 200
-
-
- # tg频道抓取21
-- type: tgchannel
-  options:
-    channel: anzhuohezi88
     num: 200
 
 
