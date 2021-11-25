@@ -192,7 +192,7 @@
 # tg频道抓取12
 - type: tgchannel
   options:
-    channel: wbnet
+    channel: ChojiLam
     num: 200
 
 
@@ -214,13 +214,6 @@
 - type: tgchannel
   options:
     channel: mfdbdl2
-    num: 200
-
-
- # tg频道抓取16
-- type: tgchannel
-  options:
-    channel: ChojiLam
     num: 200
 
 
