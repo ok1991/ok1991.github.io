@@ -217,6 +217,27 @@
     num: 200
 
 
+ # tg频道抓取16
+- type: tgchannel
+  options:
+    channel: vpnhat
+    num: 200
+
+
+ # tg频道抓取17
+- type: tgchannel
+  options:
+    channel: bpzqpd
+    num: 200
+
+
+ # tg频道抓取18
+- type: tgchannel
+  options:
+    channel: mfjdpd
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
