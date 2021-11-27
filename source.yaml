@@ -112,6 +112,12 @@
     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/V2
 
 
+# 订阅链接19
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/zhanghaoing/freejd/main/mffxz
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
