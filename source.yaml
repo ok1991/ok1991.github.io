@@ -118,6 +118,12 @@
     url: https://raw.githubusercontent.com/zhanghaoing/freejd/main/mffxz
 
 
+# 订阅链接20
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/TY
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
