@@ -124,6 +124,12 @@
     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/TY
 
 
+# 订阅链接20
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/baip01/yhkj/main/v2ray
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
