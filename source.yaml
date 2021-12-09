@@ -1,7 +1,127 @@
-# 模糊抓取订阅链接
-- type: webfuzzsub
+# 池-1
+- type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ok1991/ok1991/main/proxypool/sub.list
+    url: https://free.kingfu.cf/vmess/sub
+
+
+# 池-2
+- type: subscribe
+  options:
+    url: https://proxies.bihai.cf/vmess/sub
+
+
+# 池-3
+- type: subscribe
+  options:
+    url: https://hk.xhrzg2017.xyz/vmess/sub
+
+
+# 池-4
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/vmess/sub
+
+
+# 池-5
+- type: subscribe
+  options:
+    url: https://proxypool.remon602.ga/vmess/sub
+
+
+# 池-6
+- type: subscribe
+  options:
+    url: https://ednovas.design/vmess/sub
+
+
+# 池-7
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/vmess/sub
+
+
+# 池-8
+- type: subscribe
+  options:
+    url: https://www.qunima.cc/vmess/sub
+
+
+# 池-9
+- type: subscribe
+  options:
+    url: https://free886.herokuapp.com/clash/proxies?type=vmess
+
+
+# 池-10
+- type: subscribe
+  options:
+    url: https://sspool.nl/vmess/sub
+
+
+# 池-11
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/vmess/sub
+
+
+# 池-12
+- type: subscribe
+  options:
+    url: https://outseen.tk/vmess/sub
+
+
+# 池-13
+- type: subscribe
+  options:
+    url: https://free.zdl.im/vmess/sub
+
+
+# 池-14
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/vmess/sub
+
+
+# 池-15
+- type: subscribe
+  options:
+    url: http://149.248.8.112/vmess/sub
+
+
+# 池-16
+- type: subscribe
+  options:
+    url: http://8.135.91.61/vmess/sub
+
+
+# 池-17
+- type: subscribe
+  options:
+    url: http://213.188.195.234/vmess/sub
+
+
+# 池-18
+- type: subscribe
+  options:
+    url: http://213.188.195.217/vmess/sub
+
+
+# 池-19
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/vmess/sub
+
+
+# 池-20
+- type: subscribe
+  options:
+    url: http://158.101.93.192/vmess/sub
+
+
+# 池-21
+- type: subscribe
+  options:
+    url: https://132.145.82.138/vmess/sub
 
 
 # 订阅链接1
