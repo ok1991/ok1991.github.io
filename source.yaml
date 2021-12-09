@@ -130,6 +130,12 @@
     url: https://raw.githubusercontent.com/baip01/yhkj/main/v2ray
 
 
+# 订阅链接21
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/hkaa0/v2ray/main/%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B9
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
