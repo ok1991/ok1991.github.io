@@ -382,6 +382,13 @@
     num: 200
 
 
+ # tg频道抓取19
+- type: tgchannel
+  options:
+    channel: tangyuanbubaipiao
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
