@@ -184,6 +184,12 @@
     url: https://gooii.ml/v2ray/sub
 
 
+# 订阅链接23
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
@@ -333,16 +339,4 @@
 # 网页模糊抓取2
 - type: webfuzz
   options:
-    url: https://github.com/alanbobs999/TopFreeProxies/blob/master/sub/sub_merge.txt
-
-
-# 网页模糊抓取3
-- type: webfuzz
-  options:
     url: https://merlinblog.xyz/wiki/freess.html
-
-
-# 网页模糊抓取4
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB
