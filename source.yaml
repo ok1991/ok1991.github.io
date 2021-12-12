@@ -4,48 +4,6 @@
     url: https://free.kingfu.cf/vmess/sub
 
 
-# 池-3
-- type: subscribe
-  options:
-    url: https://hk.xhrzg2017.xyz/vmess/sub
-
-
-# 池-5
-- type: subscribe
-  options:
-    url: https://proxypool.remon602.ga/vmess/sub
-
-
-# 池-6
-- type: subscribe
-  options:
-    url: https://ednovas.design/vmess/sub
-
-
-# 池-7
-- type: subscribe
-  options:
-    url: https://smart.zxcyec.top/vmess/sub
-
-
-# 池-10
-- type: subscribe
-  options:
-    url: https://sspool.nl/vmess/sub
-
-
-# 池-19
-- type: subscribe
-  options:
-    url: https://smart.zxcyec.top/vmess/sub
-
-
-# 池-21
-- type: subscribe
-  options:
-    url: https://132.145.82.138/vmess/sub
-
-
 # 订阅链接1
 - type: subscribe
   options:
@@ -179,12 +137,6 @@
 
 
 # 订阅链接22
-- type: subscribe
-  options:
-    url: https://gooii.ml/v2ray/sub
-
-
-# 订阅链接23
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
