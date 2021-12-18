@@ -285,7 +285,7 @@
  # tg频道抓取21
 - type: tgchannel
   options:
-    channel: mffxz
+    channel: mffxznews
     num: 200
 
 
