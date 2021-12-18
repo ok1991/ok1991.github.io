@@ -222,7 +222,7 @@
 # tg频道抓取12
 - type: tgchannel
   options:
-    channel: ChojiLam
+    channel: update1024
     num: 200
 
 
@@ -279,6 +279,13 @@
 - type: tgchannel
   options:
     channel: fanqiangdang
+    num: 200
+
+
+ # tg频道抓取21
+- type: tgchannel
+  options:
+    channel: mffxz
     num: 200
 
 
