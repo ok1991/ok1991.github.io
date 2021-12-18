@@ -1,3 +1,8 @@
+# clash-1
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
+
 # 池-1
 - type: subscribe
   options:
@@ -37,7 +42,7 @@
 # 订阅链接6
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/proxy.md
 
 
 # 订阅链接7
