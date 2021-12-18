@@ -289,6 +289,13 @@
     num: 200
 
 
+ # tg频道抓取22
+- type: tgchannel
+  options:
+    channel: SurfShark_ALA
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
