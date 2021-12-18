@@ -142,6 +142,12 @@
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
 
 
+# 订阅链接23
+- type: subscribe
+  options:
+    url: https://gitee.com/chenx58/clash/raw/V2R/V2R
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
