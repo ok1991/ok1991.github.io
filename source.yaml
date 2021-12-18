@@ -222,7 +222,7 @@
 # tg频道抓取12
 - type: tgchannel
   options:
-    channel: update1024
+    channel: update7x24
     num: 200
 
 
