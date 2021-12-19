@@ -314,6 +314,13 @@
     num: 200
 
 
+ # tg频道抓取23
+- type: tgchannel
+  options:
+    channel: MSC4652
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
