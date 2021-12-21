@@ -160,6 +160,12 @@
     url: https://gitee.com/chenx58/clash/raw/V2R/V2R
 
 
+# 订阅链接24
+- type: subscribe
+  options:
+    url: https://github.com/webdao/v2ray/blob/master/nodes.txt
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
