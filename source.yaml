@@ -16,6 +16,12 @@
     url: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 
 
+# clash-4
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+
+
 # 池-1
 - type: subscribe
   options:
