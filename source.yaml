@@ -10,6 +10,12 @@
     url: https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml
 
 
+# clash-3
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+
+
 # 池-1
 - type: subscribe
   options:
@@ -136,31 +142,31 @@
     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/TY
 
 
-# 订阅链接20
+# 订阅链接21
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/baip01/yhkj/main/v2ray
 
 
-# 订阅链接21
+# 订阅链接22
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/hkaa0/v2ray/main/%E9%A6%99%E6%B8%AF%E8%8A%82%E7%82%B9
 
 
-# 订阅链接22
+# 订阅链接23
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
 
 
-# 订阅链接23
+# 订阅链接24
 - type: subscribe
   options:
     url: https://gitee.com/chenx58/clash/raw/V2R/V2R
 
 
-# 订阅链接24
+# 订阅链接25
 - type: subscribe
   options:
     url: https://github.com/webdao/v2ray/blob/master/nodes.txt
