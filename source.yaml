@@ -19,7 +19,13 @@
 # clash-4
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+    url: https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_ssr.yml
+
+
+# clash-5
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml
 
 
 # 池-1
