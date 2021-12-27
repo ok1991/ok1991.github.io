@@ -28,6 +28,12 @@
     url: https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml
 
 
+# clash-6
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+
+
 # 池-1
 - type: subscribe
   options:
