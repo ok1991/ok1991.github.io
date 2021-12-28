@@ -190,6 +190,12 @@
     url: https://github.com/webdao/v2ray/blob/master/nodes.txt
 
 
+# 订阅链接26
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
