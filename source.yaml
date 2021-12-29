@@ -371,6 +371,20 @@
     num: 200
 
 
+ # tg频道抓取26
+- type: tgchannel
+  options:
+    channel: helpether
+    num: 200
+
+
+ # tg频道抓取27
+- type: tgchannel
+  options:
+    channel: baipiao02
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
