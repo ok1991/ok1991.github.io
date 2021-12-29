@@ -185,9 +185,3 @@
   options:
     channel: baipiao02
     num: 200
-
-
-# 网页模糊抓取1
-- type: webfuzz
-  options:
-    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
