@@ -4,10 +4,17 @@
     url: https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
-# 订阅链接20
+# 订阅链接5
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app
+
+
+#订阅链接20
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+
 
 # 订阅链接28
 - type: subscribe
