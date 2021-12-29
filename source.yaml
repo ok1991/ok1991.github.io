@@ -357,6 +357,20 @@
     num: 200
 
 
+ # tg频道抓取24
+- type: tgchannel
+  options:
+    channel: baipiao123_1
+    num: 200
+
+
+ # tg频道抓取25
+- type: tgchannel
+  options:
+    channel: sola114514
+    num: 200
+
+
 # 网页模糊抓取1
 - type: webfuzz
   options:
