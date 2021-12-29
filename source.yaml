@@ -196,6 +196,12 @@
     url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
 
+# 订阅链接27
+- type: subscribe
+  options:
+    url: http://v2.1919810.com/free/
+
+
 # tg频道抓取1
 - type: tgchannel
   options:
