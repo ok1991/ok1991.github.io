@@ -22,6 +22,12 @@
     url: https://v2ray.neocities.org/v2ray.txt
 
 
+# 订阅链接18
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ThekingMX1998/free-v2ray-code/master/Subscription/GreenFishYYDS
+
+
 #订阅链接20
 - type: subscribe
   options:
