@@ -52,6 +52,12 @@
     url: https://raw.githubusercontent.com/youzicu020/jieDian/main/dailyUpdate
 
 
+# 订阅链接29
+- type: subscribe
+  options:
+    url: https://lofdeepmnv.netlify.app
+
+
 # tg频道抓取12
 - type: tgchannel
   options:
