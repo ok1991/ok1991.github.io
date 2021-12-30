@@ -58,6 +58,12 @@
     url: https://lofdeepmnv.netlify.app
 
 
+# 订阅链接30
+- type: subscribe
+  options:
+    url: http://v2.1919810.com
+
+
 # tg频道抓取12
 - type: tgchannel
   options:
