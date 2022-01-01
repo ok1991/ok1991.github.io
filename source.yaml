@@ -64,6 +64,12 @@
     url: http://v2.1919810.com
 
 
+# 日删
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/FMYC2015/V2ray/main/2022/2022-01-01
+
+
 # tg频道抓取12
 - type: tgchannel
   options:
