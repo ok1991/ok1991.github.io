@@ -4,19 +4,19 @@
     url: https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
-# 订阅链接4-ssr
+# 订阅链接4*ssr
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2
 
 
-# 订阅链接5
+# 订阅链接6
 - type: subscribe
   options:
-    url: https://jiang.netlify.app
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
 
 
-# 订阅链接16
+# 订阅链接16*ssr
 - type: subscribe
   options:
     url: https://v2ray.neocities.org/v2ray.txt
@@ -40,34 +40,10 @@
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
 
 
-# 订阅链接26
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-
-
 # 订阅链接28
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/youzicu020/jieDian/main/dailyUpdate
-
-
-# 订阅链接29
-- type: subscribe
-  options:
-    url: https://lofdeepmnv.netlify.app
-
-
-# 订阅链接30
-- type: subscribe
-  options:
-    url: http://v2.1919810.com
-
-
-# 日删
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/FMYC2015/V2ray/main/2022/2022-01-01
 
 
 # tg频道抓取12
