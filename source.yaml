@@ -46,12 +46,6 @@
     url: https://raw.githubusercontent.com/youzicu020/jieDian/main/dailyUpdate
 
 
-# 订阅链接29
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/zhanghaoing/freejd/main/mffxz
-
-
 # tg频道抓取12
 - type: tgchannel
   options:
