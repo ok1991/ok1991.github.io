@@ -1,3 +1,9 @@
+# 订阅链接1
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub
+
+
 # 订阅链接3
 - type: subscribe
   options:
