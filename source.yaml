@@ -10,10 +10,16 @@
     url: https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
 
 
-# 订阅链接4*ssr
+# 订阅链接4
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+
+# 订阅链接4*ssr
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
 
 
 # 订阅链接6
@@ -28,13 +34,13 @@
     url: https://v2ray.neocities.org/v2ray.txt
 
 
-# 订阅链接18
+# 绿头18
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ThekingMX1998/free-v2ray-code/master/Subscription/GreenFishYYDS
 
 
-#订阅链接20
+# 订阅链接20
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
@@ -46,16 +52,10 @@
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
 
 
-# 订阅链接28
+# 柚子28
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/youzicu020/jieDian/main/dailyUpdate
-
-
-# 订阅链接29
-- type: subscribe
-  options:
-    url: http://张浩大学.退学.com
 
 
 # 订阅链接30
