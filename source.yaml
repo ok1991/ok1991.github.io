@@ -70,6 +70,12 @@
     url: https://wds.ecsxs.com/219465.json
 
 
+# 订阅链接32
+- type: subscribe
+  options:
+    url: https://wds.ecsxs.com/219844.json
+
+
 # tg频道抓取12
 - type: tgchannel
   options:
