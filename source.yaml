@@ -75,3 +75,10 @@
   options:
     channel: update7x24
     num: 200
+
+
+# tg-2
+- type: tgchannel
+  options:
+    channel: WangCai2
+    num: 200
