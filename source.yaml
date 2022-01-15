@@ -64,7 +64,13 @@
     url: https://wds.ecsxs.com/219844.json
 
 
-# tg频道抓取12
+# fq5-11
+- type: subscribe
+  options:
+    url: https://gitee.com/fq5/tyjd/raw/master/01-15yb
+
+
+# tg-1
 - type: tgchannel
   options:
     channel: update7x24
