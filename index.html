@@ -6,7 +6,8 @@
 </head>
 <body>
 <script>
-    // 在这里修改你的 JavaScript 代码
+    let totalPrimes = 0; // 用于保存累计计算的质数数量
+
     function calculatePrimes(n) {
         let primes = [];
         for (let i = 2; i < n; i++) {
@@ -21,14 +22,16 @@
                 primes.push(i);
             }
         }
-        return primes;
+        return primes.length;
     }
 
     setInterval(function () {
         const startTime = performance.now();
-        const primes = calculatePrimes(10000); // 增加计算密集型操作
+        const primesCount = calculatePrimes(10000); // 计算质数数量
         const endTime = performance.now();
-        console.log(`计算了 ${primes.length} 个质数，耗时 ${endTime - startTime} 毫秒`);
+
+        totalPrimes += primesCount; // 累计计算的质数数量
+        console.log(`计算了 ${primesCount} 个质数，累计 ${totalPrimes} 个质数，耗时 ${endTime - startTime} 毫秒`);
     }, 1000); // 每隔1秒钟执行一次计算
 </script>
 </body>
