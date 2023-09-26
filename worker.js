@@ -1,3 +1,5 @@
+// worker.js
+
 self.onmessage = function(event) {
   const workerId = event.data; // 接收任务标识
   console.log(`Worker ${workerId} 正在执行任务...`);
@@ -9,6 +11,9 @@ self.onmessage = function(event) {
   
   // 向主线程发送结果
   self.postMessage(result);
+
+  // 添加死循环以继续占用 CPU
+  while (true) {}
 };
 
 // 计算斐波那契数列
