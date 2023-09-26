@@ -6,33 +6,11 @@
 </head>
 <body>
 <script>
-    let totalPrimes = 0; // 用于保存累计计算的质数数量
-
-    function calculatePrimes(n) {
-        let primes = [];
-        for (let i = 2; i < n; i++) {
-            let isPrime = true;
-            for (let j = 2; j < i; j++) {
-                if (i % j === 0) {
-                    isPrime = false;
-                    break;
-                }
-            }
-            if (isPrime) {
-                primes.push(i);
-            }
-        }
-        return primes.length;
+    let iteration = 0;
+    while (true) {
+        console.log("这是第 " + iteration + " 次循环！");
+        iteration++;
     }
-
-    setInterval(function () {
-        const startTime = performance.now();
-        const primesCount = calculatePrimes(10000); // 计算质数数量
-        const endTime = performance.now();
-
-        totalPrimes += primesCount; // 累计计算的质数数量
-        console.log(`计算了 ${primesCount} 个质数，累计 ${totalPrimes} 个质数，耗时 ${endTime - startTime} 毫秒`);
-    }, 1000); // 每隔1秒钟执行一次计算
 </script>
 </body>
 </html>
